@@ -20,8 +20,7 @@
 
 👩‍💻 About me--
 
-- 🔭 I’m a Frontend Development enthusiast.
-- 🌱 I’m currently learning Front End Development Libraries from FreeCodeCamp.
+- 🔭 I’m a Frontend Developer.
 - 📫 How to reach me: shraddhav1935@gmail.com
 - 😄 Besides coding, I love to draw.
 - ⚡ 
